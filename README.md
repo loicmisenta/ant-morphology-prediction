@@ -1,0 +1,2 @@
+﻿# ant-morphology-prediction
+Machine learning for automated ant morphological measurements using image segmentation and shape-based prediction.
