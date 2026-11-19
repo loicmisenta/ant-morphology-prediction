@@ -1,0 +1,10 @@
+﻿image,number,unit,bar_px,px_per_mm,mm_per_px,comments
+lacment142083_p_1.jpg,0.5,mm,254,508.000,0.001969,"black bar found near text, thickness 12 px"
+lacment273766_p_1.jpg,1.0,mm,206,206.000,0.004854,"black bar found near text, thickness 8 px"
+lacment273795_p_1.jpg,1.0,mm,262,262.000,0.003817,"black bar found near text, thickness 11 px"
+lacment323199_p_1.jpg,0.5,mm,80,160.000,0.006250,"black bar found near text, thickness 3 px"
+lacment323216_p_1.jpg,1.0,mm,239,239.000,0.004184,"black bar found near text, thickness 8 px"
+lacment323260_p_1.jpg,0.5,mm,239,478.000,0.002092,"black bar found near text, thickness 8 px"
+lacment323355_p_1.jpg,0.5,mm,241,482.000,0.002075,"black bar found near text, thickness 7 px"
+lacment323430_p_1.jpg,0.5,mm,285,570.000,0.001754,"black bar found near text, thickness 8 px"
+lacment323462_p_1.jpg,0.5,mm,230,460.000,0.002174,"black bar found near text, thickness 8 px"

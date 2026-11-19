@@ -1,0 +1,4 @@
+﻿image,number,unit,bar_px,px_per_mm,mm_per_px,comments
+blf00976(40)-2_p_1.jpg,2.0,mm,258,129.000,0.007752,"white bar found near text, thickness 1 px"
+blf1070(39)-01_p_1.jpg,0.5,mm,236,472.000,0.002119,"black bar found near text, thickness 5 px"
+blf1070(40)-9_p_1.jpg,0.2,mm,120,600.000,0.001667,"white bar found near text, thickness 1 px"
