@@ -23,6 +23,14 @@ DEBUG_FOLDER = DEBUG_ROOT          # changed for each collection in the main loo
 os.makedirs(DEBUG_ROOT, exist_ok=True)
 
 # Run only these collections (None -> all collections)
+ANT_LIST = [
+    'anic32', 'antweb', 'casent', 'castype', 'dzup', 'ecofog', 'fmnhins',
+    'focol', 'icn', 'inb', 'inbiocri', 'jdm32', 'jtlc', 'kg', 'lacment',
+    'mcz', 'nbairhym', 'ncbs', 'nhmuk', 'sam', 'thnhm', 'ufv', 'usnment',
+    'utic', 'zrc', 'asusibr', 'blf', 'cocy'
+]
+PATTERN_COLLECTION = r"^(" + "|".join(sorted(ANT_LIST, key=len, reverse=True)) + r")"
+REFINED_LIST = None
 ONLY_COLLECTIONS = None
 
 # =========================================================
