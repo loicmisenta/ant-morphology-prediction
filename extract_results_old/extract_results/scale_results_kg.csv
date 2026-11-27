@@ -1,0 +1,3 @@
+﻿image,number,unit,bar_px,px_per_mm,mm_per_px,comments
+kg02103-1_p_1.jpg,0.5,mm,100,200.000,0.005000,"black bar found near text, thickness 8 px"
+kg03210-3_p_1.jpg,0.5,mm,160,320.000,0.003125,"black bar found near text, thickness 8 px"

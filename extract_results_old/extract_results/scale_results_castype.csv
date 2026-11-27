@@ -1,0 +1,10 @@
+﻿image,number,unit,bar_px,px_per_mm,mm_per_px,comments
+castype05026_p_1.jpg,0.5,mm,201,402.000,0.002488,"white bar found near text, thickness 3 px"
+castype06884_p_1.jpg,0.5,mm,296,592.000,0.001689,"black bar found near text, thickness 2 px"
+castype06889_p_1.jpg,2.0,mm,301,150.500,0.006645,"black bar found near text, thickness 6 px"
+castype06955_p_1.jpg,,,,,,"FAILED; original method found nothing; vote fallback crashed: OpenCV(4.14.0) /io/opencv/modules/imgproc/src/resize.cpp:4014: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+; texts read: []"
+castype12082_p_1.jpg,1.0,mm,315,315.000,0.003175,"black bar found near text, thickness 3 px"
+castype13385_p_1.jpg,1.0,mm,400,400.000,0.002500,"black bar found near text, thickness 4 px"
+castype14104_p_1.jpg,1.0,mm,198,198.000,0.005051,"black bar found near text, thickness 3 px"
+castype16756_p_1.jpg,1.0,mm,206,206.000,0.004854,"black bar found near text, thickness 3 px"

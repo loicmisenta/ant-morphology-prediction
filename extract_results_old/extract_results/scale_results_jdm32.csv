@@ -1,0 +1,7 @@
+﻿image,number,unit,bar_px,px_per_mm,mm_per_px,comments
+jdm32-001958-1_p_1.jpg,0.5,mm,204,408.000,0.002451,"black bar found near text, thickness 6 px"
+jdm32-001966-1_p_1.jpg,0.5,mm,311,622.000,0.001608,"black bar found near text, thickness 7 px"
+jdm32-002000-1_p_1.jpg,0.5,mm,149,298.000,0.003356,"black bar found near text, thickness 6 px"
+jdm32-002522_p_1.jpg,1.0,mm,310,310.000,0.003226,"white bar found near text, thickness 4 px"
+jdm32-003501_p_1.jpg,2.0,mm,668,334.000,0.002994,"white bar found near text, thickness 4 px"
+jdm32-004852-1_p_1.jpg,1.0,mm,116,116.000,0.008621,"'I' corrected to 1; white bar found near text, thickness 3 px"

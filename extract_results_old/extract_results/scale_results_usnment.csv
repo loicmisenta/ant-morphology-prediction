@@ -1,0 +1,5 @@
+﻿image,number,unit,bar_px,px_per_mm,mm_per_px,comments
+usnment00534693_p_1.jpg,0.2,mm,85,425.000,0.002353,"black bar found near text, thickness 1 px"
+usnment00758173_p_1.jpg,0.2,mm,126,630.000,0.001587,"black bar found near text, thickness 7 px"
+usnment01126300_p_1.jpg,0.5,mm,160,320.000,0.003125,"black bar found near text, thickness 8 px"
+usnment01126705_p_1.jpg,1.0,mm,406,406.000,0.002463,"white bar found near text, thickness 5 px"

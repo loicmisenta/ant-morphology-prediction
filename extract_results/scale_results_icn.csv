@@ -1,3 +1,3 @@
 ﻿image,number,unit,bar_px,px_per_mm,mm_per_px,comments
-icn001374_p_1.jpg,1.0,mm,186,186.000,0.005376,"black bar found near text, thickness 12 px"
-icn004347_p_1.jpg,1.0,mm,271,271.000,0.003690,"black bar found near text, thickness 11 px"
+icn001374_p_1.jpg,1.0,mm,186,186.000,0.005376,"number and unit read on separate lines, combined; black bar found near text, thickness 12 px"
+icn004347_p_1.jpg,2.0,mm,271,135.500,0.007380,"number and unit read on separate lines, combined; black bar found near text, thickness 11 px"

@@ -1,0 +1,5 @@
+﻿image,number,unit,bar_px,px_per_mm,mm_per_px,comments
+dzup549348_p_1.jpg,2.0,mm,246,123.000,0.008130,"number and unit read on separate lines, combined; black bar found near text, thickness 8 px"
+dzup549774_p_1.jpg,0.2,mm,,,,"scale bar not detected, no conversion"
+dzup549778_p_1.jpg,0.2,mm,154,770.000,0.001299,"black bar found near text, thickness 7 px"
+dzup549810_p_1.jpg,2.0,mm,111,55.500,0.018018,"white bar found near text, thickness 8 px"

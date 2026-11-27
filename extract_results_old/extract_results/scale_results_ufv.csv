@@ -1,0 +1,6 @@
+﻿image,number,unit,bar_px,px_per_mm,mm_per_px,comments
+ufv-labecol-000105_p_1.jpg,1.0,mm,229,229.000,0.004367,"black bar found near text, thickness 6 px"
+ufv-labecol-000499_p_1.jpg,1.0,mm,121,121.000,0.008264,"black bar found near text, thickness 7 px"
+ufv-labecol-001266_p_1.jpg,0.5,mm,207,414.000,0.002415,"black bar found near text, thickness 8 px"
+ufv-labecol-006722_p_1.jpg,0.2,mm,149,745.000,0.001342,"black bar found near text, thickness 6 px"
+ufv-labecol-008565_p_1.jpg,0.5,mm,856,1712.000,0.000584,"black bar found near text, thickness 1 px"
