@@ -1,1 +1,14 @@
+# Local datasets and generated preprocessing outputs
 data/*
+
+# Model checkpoints, predictions, histories, and generated figures
+results/
+
+# Superseded exploratory notebook and local backups
+*.bak
+
+# Jupyter and Python caches
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
